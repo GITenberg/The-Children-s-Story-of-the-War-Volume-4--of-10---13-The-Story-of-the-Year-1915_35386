@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37589'
     url: http://www.gutenberg.org/2009/agents/37589
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35386#The-Children-s-Story-of-the-War-Volume-4--of-10---13-The-Story-of-the-Year-1915
 gutenberg_issued: '2011-02-24'
 gutenberg_type: Text
 identifiers:
